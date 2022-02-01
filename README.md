@@ -11,7 +11,7 @@
   </code>
 </h5>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://github.com/cesarhuber/teal-brick/blob/master/programmer_img-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Programador">
 
 ## Sobre mim
 
