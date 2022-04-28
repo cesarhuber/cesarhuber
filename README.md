@@ -15,8 +15,8 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
 
 ## Sobre mim
 
-- 💻 Disponível para oportunidades
-- 👨🏼‍💻 Formando como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
+- 💻 Desenvolvedor Backend Júnior na Hubees 🐝 
+- 👨🏼‍💻 Formado como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
 - 🌌 Adoro codar e usar lógica de programação nas linguagens que aprendi e continuo aprendendo
 
 ## Tecnologias e Ferramentas
@@ -26,12 +26,8 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Cesar-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cesar-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cesar-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Cesar-Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Cesar-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Cesar-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Cesar-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg">
 </div>
 
 ##
