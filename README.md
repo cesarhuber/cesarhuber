@@ -4,9 +4,7 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
 </h2>
 </div>
 
-<h5 align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/cesar-huber-79149624/" title="LinkedIn"> 
-</h5>
+[My Linkedin](https://www.linkedin.com/in/cesar-huber/)
 
 <img src="https://github.com/cesarhuber/teal-brick/blob/master/programmer_img-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Programador">
 
