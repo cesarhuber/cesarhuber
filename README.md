@@ -7,7 +7,6 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
 <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/cesar-huber-79149624/" title="LinkedIn"> 
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
 </h5>
 
