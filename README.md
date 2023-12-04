@@ -10,7 +10,7 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
 
 ## Sobre mim
 
-- 💻 Desenvolvedor Backend Júnior na Solucx 
+- 💻 Desenvolvedor Backend na Solucx 
 - 👨🏼‍💻 Formado como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
 - 🌌 Adoro codar e usar lógica de programação nas linguagens que aprendi e continuo aprendendo
 
