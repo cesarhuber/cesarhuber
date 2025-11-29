@@ -1,31 +1,74 @@
-<div align='center'>
-<h2 align='center'> 
-Olá, Mundo! Eu sou o Cesar 🤘🏻
-</h2>
+<div align="center">
+  <h2>Hello World! I'm Cesar 🤘🏻</h2>
 </div>
 
-[My Linkedin](https://www.linkedin.com/in/cesar-huber/)
+[➡️ Connect on LinkedIn](https://www.linkedin.com/in/cesar-huber/)
 
-<img src="https://github.com/cesarhuber/teal-brick/blob/master/programmer_img-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Programador">
+<img src="https://github.com/cesarhuber/teal-brick/blob/master/programmer_img-removebg-preview.png" width="320px" align="right" alt="Programmer">
 
-## Sobre mim
+## 👨‍💻 About Me
 
-- 💻 Desenvolvedor Backend na Solucx 
-- 👨🏼‍💻 Formado como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) 🎓
-- 🌌 Adoro codar e usar lógica de programação nas linguagens que aprendi e continuo aprendendo
+I'm a **Backend Software Engineer** passionate about building clean, scalable, and well-designed systems using **Node.js, TypeScript and modern architecture patterns**.
 
-## Tecnologias e Ferramentas
+I love transforming complex business rules into simple and maintainable solutions, designing domain-driven structures, working with distributed systems, and writing code that’s both elegant and reliable.
+
+### ⚡ What I'm currently focusing on:
+- Building scalable APIs, event-driven services, and async workflows  
+- Architecting systems using **SOLID, Clean Architecture, and Domain-Driven Design**  
+- Working with Docker, Kubernetes, and CI/CD pipelines  
+- Expanding my ecosystem skills with **Python** and **Go**
+
+---
+
+## 🚀 Highlight Project — **Bling Replicator**
+
+My main ongoing personal project is the **Bling Replicator**, a complete sync engine that replicates products, variations, pricing, and stock across multiple ERP accounts with high reliability.
+
+### 🔧 Features & Technical Highlights:
+- Real-time **change detection** across multiple entities  
+- Distributed architecture with **async workers** and **job queues**  
+- Custom rate-limiting strategies + concurrency control  
+- Automatic mapping rules for complex product structures  
+- Error recovery, deadlock-safe retries, and resilience patterns  
+- Modular domain design focused on clarity and scalability  
+- Containerized with **Docker** and ready for orchestration with **Kubernetes**  
+- Built with Node.js + TypeScript (NestJS architecture principles)
+
+It’s a project where I combine system design, advanced backend logic, and DevOps — and where I push myself to engineer production-ready solutions from scratch.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Cesar-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Cesar-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Cesar-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cesar-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cesar-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Cesar-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg">
+
+  <!-- Languages -->
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  
+  <!-- Backend -->
+  <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/samuelpinho/devicons-extended/icons/nestjs/nestjs-original.svg"/>
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  
+  <!-- Databases -->
+  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+  <!-- Cloud & DevOps -->
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+  <!-- Tools -->
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg"/>
 </div>
 
-##
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/cesarhuber">
@@ -34,18 +77,11 @@ Olá, Mundo! Eu sou o Cesar 🤘🏻
   </a>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 
-<hr />
+---
 
-<div align='center'>
-<p> Obrigado pela visita 😁</p>
+<div align="center">
+  <p>Thanks for stopping by 😁</p>
   <img src="https://komarev.com/ghpvc/?username=cesarhuber&color=blueviolet&label=profile+views" alt="cesarhuber" />
 </div>
